@@ -1,0 +1,10 @@
+{
+  "name": "conceitos-typescript",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/express": "^4.17.6",
+    "typescript": "^3.9.5"
+  }
+}
